@@ -1,5 +1,7 @@
 # Demo_Diagnostic_App
 
+Link to App : https://smartbuddy.pythonanywhere.com/
+
 ![image](https://github.com/Arpit-Agrawal-Git/Demo_Diagnostic_App/assets/88269770/30423752-907c-403d-93c1-41a750f7595f)
 
 Front Page
